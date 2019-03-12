@@ -17,13 +17,17 @@ pragma solidity ^0.4.25;
  *                      - man | men
  *                      - woman | women
  *
- *                   2. HARASSMENT
+ *                   2. GEOSPATIAL
+ *                      - DE (Germany)
+ *                      - US (United States)
+ *
+ *                   3. HARASSMENT
  *                      - bullying
  *
- *                   3. REVENGE
+ *                   4. REVENGE
  *                      - porn
  *
- *                   4. TERRORISM
+ *                   5. TERRORISM
  *                      - ISIS
  *
  *               * This is NOT a complete listing of ALL content violations.

@@ -1,0 +1,25 @@
+{
+    "abuse": {
+        "animal": false,
+        "animals": false,
+        "child": false,
+        "children": false,
+        "man": false,
+        "men": false,
+        "woman": false,
+        "women": false
+    },
+    "geo": {
+        "DE": false,
+        "US": false
+    },
+    "harassment": {
+        "bullying": false
+    },
+    "revenge": {
+        "porn": false
+    },
+    "terrorism": {
+        "ISIS": false
+    }
+}
